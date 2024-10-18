@@ -39,14 +39,14 @@
 
 **🏆 HOẶC NẾU BẠN KHÔNG CÓ THẺ VISA THANH TOÁN QUỐC TẾ THÌ CÓ THỂ LIÊN HỆ TRỰC TIẾP VỚI MÌNH TẠI ĐÂY ĐỂ LẤY TÀI NGUYÊN HỌC TẬP NHÉ 👇**
 
-🌐 Facebook TrungQuanDev: 👉 https://facebook.com/trungquandev
+**🌐 Facebook TrungQuanDev: 👉 https://facebook.com/trungquandev**
 
-👑 Lưu ý: Video hướng dẫn chi tiết cách Install Source Code (Pro & Advanced) đều đã có trong 2 Playlists của khóa học rồi nhé.
+**👑 Lưu ý: Video hướng dẫn chi tiết cách Install Source Code (Pro & Advanced) đều đã có trong 2 Playlists của khóa học rồi nhé.**
 
 ### Requirements - Thông tin của bộ Code Base này - Chuẩn các phiên bản dưới đây để bắt đầu học: (Semantic Versioning)
 
 ```
-* nodejs = v18.16.0
+* nodejs >= 18.16.0
 * npm = v9.5.1
 * yarn = v1.22.19
 
