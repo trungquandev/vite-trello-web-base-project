@@ -19,25 +19,25 @@
 
 🌐 https://trungquandev.com/khoa-hoc-lap-trinh-full-stack-mern-100-du-an-thuc-te-chat-luong/
 
-🥉 FREE PACK (No Sponsor)
+**🥉 FREE PACK (No Sponsor)**
 
 • 🌟 Download on Ko-fi: https://ko-fi.com/s/8e56e2c5d0
 
 • 🌟 Download on Buy Me a Coffee: https://buymeacoffee.com/codetq/e/318762
 
-🥈 GOLD PACK (Gold Sponsor)
+**🥈 GOLD PACK (Gold Sponsor)**
 
 • 🌟 Download on Ko-fi: https://ko-fi.com/s/e41c325ca4
 
 • 🌟 Download on Buy Me a Coffee: https://buymeacoffee.com/codetq/e/191152
 
-🥇 DIAMOND PACK (Diamond Sponsor - VIP)
+**🥇 DIAMOND PACK (Diamond Sponsor - VIP)**
 
 • 🌟 Download on Ko-fi: https://ko-fi.com/s/27670843df
 
 • 🌟 Download on Buy Me a Coffee: https://buymeacoffee.com/codetq/e/318750
 
-🏆 HOẶC NẾU BẠN KHÔNG CÓ THẺ VISA THANH TOÁN QUỐC TẾ THÌ CÓ THỂ LIÊN HỆ TRỰC TIẾP VỚI MÌNH TẠI ĐÂY ĐỂ LẤY TÀI NGUYÊN HỌC TẬP NHÉ 👇
+**🏆 HOẶC NẾU BẠN KHÔNG CÓ THẺ VISA THANH TOÁN QUỐC TẾ THÌ CÓ THỂ LIÊN HỆ TRỰC TIẾP VỚI MÌNH TẠI ĐÂY ĐỂ LẤY TÀI NGUYÊN HỌC TẬP NHÉ 👇**
 
 🌐 Facebook TrungQuanDev: 👉 https://facebook.com/trungquandev
 
