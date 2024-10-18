@@ -43,6 +43,8 @@
 
 **👑 Lưu ý: Video hướng dẫn chi tiết cách Install Source Code (Pro & Advanced) đều đã có trong 2 Playlists của khóa học rồi nhé.**
 
+---
+
 ### Requirements - Thông tin của bộ Code Base này - Chuẩn các phiên bản dưới đây để bắt đầu học: (Semantic Versioning)
 
 ```
