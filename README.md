@@ -9,6 +9,8 @@
 
 - Semantic Versioning là gì? Lưu ý Quan Trọng về bộ Code Base của dự án. Link: https://youtu.be/lUfsTj45Uys
 
+---
+
 ### 🎁 DOWNLOAD FULL SOURCE CODE của toàn bộ dự án (Pro & Advanced) cũng như Donate ủng hộ mình ly cafe nếu bạn muốn 🤝
 
 👉 Đầu tiên cần phải làm rõ một điều: Mình KHÔNG BÁN CODE cũng như KHÔNG BÁN KHÓA HỌC gì ở đây hết. Bởi vì mình đã cung cấp đầy đủ mọi tài nguyên cần thiết cho trường hợp bạn muốn học FREE Miễn Phí từ đầu rồi.
